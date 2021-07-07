@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__version__ = "1.2.2"
-__author__ = "reaitten"
+__version__ = "1.2.4"
+__author__ = "unkown"
 
 import logging
 logging.basicConfig(
