@@ -745,12 +745,13 @@ async def about_me(message):
     diff = Human_Format.human_readable_timedelta(diff)
 
     msg = (
-        "<b>name</b>: <code>tgtk</code>\n"
+        "<b>Name</b>: <code>EobardsTTk</code>\n"
         f"<b>version</b>: <code>{__version__}</code>\n"
         f"<b>telethon Version</b>: {telever}\n"
-        f"<b>pyrogram Version</b>: {pyrover}\n"
+        f"<b>Pyrogram Version</b>: {pyrover}\n"
+        "<b>Modified By</b>: @RSEpDOX\n\n"
         "<u>currents configs:</u>\n\n"
-        f"<b>bot uptime:</b> {diff}\n"
+        f"<b>Bot uptime:</b> {diff}\n"
         "<b>torrent download engine:</b> <code>qBittorrent [4.3.0 fix active]</code> \n"
         "<b>direct link download engine:</b> <code>aria2</code> \n"
         "<b>upload Engine:</b> <code>rclone</code> \n"
