@@ -1,15 +1,15 @@
 import setuptools
 
 setuptools.setup(
-    name="EmLeetkXApp",
+    name="DocuXdta",
     version="1.0",
-    author="SamsNotX",
-    description="A Telegram Bot written in Python to mirror files to Telegram",
+    author="Rsepdox",
+    description="A simple Telegram Bot written in Python to mirror files to Telegram",
     long_description=open('README.md', 'r', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/SamsNotX/EmLeetkXApp",
+    url="https://github.com/ReverseClone/DocuXdta",
     project_urls={
-        "Bug Tracker": "https://github.com/SamsNotX/EmLeetkXApp/issues",
+        "Bug Tracker": "https://github.com/ReverseClone/DocuXdta/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
