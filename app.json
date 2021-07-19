@@ -1,12 +1,12 @@
 {
-  "name": "YoTxBetA",
-  "description": "A Multi-purpose Telegram Bot. ",
+  "name": "DocuXdta",
+  "description": "A simple Telegram Bot which help to manage fies. ",
   "keywords": [
     "telegram","bot"
   ],
-  "repository": "https://github.com/ReverseClone/YoTxBetA",
-  "success_url": "https://github.com/ReverseClone/YoTxBetA",
-  "website": "https://github.com/ReverseClone/YoTxBetA",
+  "repository": "https://github.com/ReverseClone/DocuXdta",
+  "success_url": "https://github.com/ReverseClone/DocuXdta",
+  "website": "https://github.com/ReverseClone/DocuXdta",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -39,7 +39,7 @@
     },
     "FORCE_DOCUMENTS": {
       "description": "Should force evething uploaded into Document",
-      "value": "False"
+      "value": "True"
     },
     "COMPLETED_STR": {
       "description": "Character to use as a completed progress",
