@@ -1,12 +1,12 @@
 {
-  "name": "EmLeetkXApp",
+  "name": "YoTxBetA",
   "description": "A Multi-purpose Telegram Bot. ",
   "keywords": [
     "telegram","bot"
   ],
-  "repository": "https://github.com/SamsNotX/EmLeetkXApp",
-  "success_url": "https://github.com/SamsNotX/EmLeetkXApp",
-  "website": "https://github.com/SamsNotX/EmLeetkXApp",
+  "repository": "https://github.com/ReverseClone/YoTxBetA",
+  "success_url": "https://github.com/ReverseClone/YoTxBetA",
+  "website": "https://github.com/ReverseClone/YoTxBetA",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -74,7 +74,7 @@
     },
     "MAX_TORRENT_SIZE": {
       "description": "Max size of the torrent allowed",
-      "value": "400",
+      "value": "300",
       "required": false
     },
     "BOT_CMD_POSTFIX": {
