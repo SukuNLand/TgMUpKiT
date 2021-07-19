@@ -23,7 +23,7 @@ qbittorrent-api==2020.7.7
 requests==2.24.0
 rsa==4.6
 six==1.15.0
-Telethon
+Telethon==1.20
 TgCrypto
 torrentool==1.1.0
 urllib3
