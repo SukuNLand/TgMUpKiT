@@ -1,12 +1,12 @@
 {
-  "name": "DocuXdta",
-  "description": "A simple Telegram Bot which help to manage fies. ",
+  "name": "UpKit",
+  "description": "A simple Telegram Bot which help to upload fies. ",
   "keywords": [
     "telegram","bot"
   ],
-  "repository": "https://github.com/ReverseClone/DocuXdta",
-  "success_url": "https://github.com/ReverseClone/DocuXdta",
-  "website": "https://github.com/ReverseClone/DocuXdta",
+  "repository": "https://github.com/ReverSEcodeMod/UpKit",
+  "success_url": "https://github.com/ReverSEcodeMod/UpKit",
+  "website": "https://github.com/ReverSEcodeMod/UpKit",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
