@@ -745,9 +745,9 @@ async def about_me(message):
     diff = Human_Format.human_readable_timedelta(diff)
 
     msg = (
-        "<b>Name</b>: <code>EobardsTTk</code>\n"
-        f"<b>version</b>: <code>{__version__}</code>\n"
-        f"<b>telethon Version</b>: {telever}\n"
+        "<b>Name</b>: <code>RSEpDOXuploaderKit</code>\n"
+        f"<b>Version</b>: <code>{__version__}</code>\n"
+        f"<b>Telethon Version</b>: {telever}\n"
         f"<b>Pyrogram Version</b>: {pyrover}\n"
         "<b>Modified By</b>: @RSEpDOX\n\n"
         "<u>currents configs:</u>\n\n"
