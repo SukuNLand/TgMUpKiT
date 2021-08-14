@@ -1,15 +1,15 @@
 import setuptools
 
 setuptools.setup(
-    name="DocuXdta",
-    version="1.0",
-    author="Rsepdox",
-    description="A simple Telegram Bot written in Python to mirror files to Telegram",
+    name="UpKit",
+    version="1.1",
+    author="Unknown",
+    description="A simple Telegram Bot written in Python to save files to Telegram",
     long_description=open('README.md', 'r', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ReverseClone/DocuXdta",
+    url="https://github.com/ReverSEcodeMod/UpKit",
     project_urls={
-        "Bug Tracker": "https://github.com/ReverseClone/DocuXdta/issues",
+        "Bug Tracker": "https://github.com/ReverSEcodeMod/UpKit/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
