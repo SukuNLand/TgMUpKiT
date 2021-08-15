@@ -192,7 +192,6 @@ async def handle_ytdl_callbacks(e: MessageLike):
                         height = i.get('format')
                         if c_format is None:
                             c_format = str(i.get("height"))
-                            format_id = f"xxother{j}"
                             height = i.get('format')
                         if not c_format == data[1]:
                             continue
