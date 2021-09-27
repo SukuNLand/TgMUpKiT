@@ -1,12 +1,12 @@
 {
-  "name": "UpKit",
+  "name": "TUpKit",
   "description": "A simple Telegram Bot which help to upload fies. ",
   "keywords": [
     "telegram","bot"
   ],
-  "repository": "https://github.com/ReverSEcodeMod/UpKit",
-  "success_url": "https://github.com/ReverSEcodeMod/UpKit",
-  "website": "https://github.com/ReverSEcodeMod/UpKit",
+  "repository": "https://github.com/ReverSEcodeMod/TUpKit",
+  "success_url": "https://github.com/ReverSEcodeMod/TUpKit",
+  "website": "https://github.com/ReverSEcodeMod/TUpKit",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
