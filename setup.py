@@ -1,15 +1,15 @@
 import setuptools
 
 setuptools.setup(
-    name="UpKit",
-    version="1.1",
+    name="TUpKit",
+    version="1.2",
     author="Unknown",
     description="A simple Telegram Bot written in Python to save files to Telegram",
     long_description=open('README.md', 'r', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ReverSEcodeMod/UpKit",
+    url="https://github.com/ReverSEcodeMod/TUpKit",
     project_urls={
-        "Bug Tracker": "https://github.com/ReverSEcodeMod/UpKit/issues",
+        "Bug Tracker": "https://github.com/ReverSEcodeMod/TUpKit/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
